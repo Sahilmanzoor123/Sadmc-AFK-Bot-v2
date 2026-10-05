@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sadmc.mcsh.io",
-    "port": 75375,
+    "port": 25565,
     "version": "1.21.6"
   },
   "position": {
